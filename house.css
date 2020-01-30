@@ -1,0 +1,33 @@
+svg {
+	stroke: transparent;
+}
+
+#sky {
+	fill: rgb(128,128,255);
+}
+
+#ground {
+	fill: rgb(0,128,0);
+}
+
+.window {
+	fill: rgb(80,80,255);
+	stroke: rgb(128,0,0);
+	stroke-width: 10px;
+}
+
+#frontDoor {
+	fill: red;
+}
+
+#frontOfHouse {
+	fill: rgb(255,200,80);
+}
+
+#roof {
+	fill: red;
+}
+
+#frontDoorHandle {
+	fill: yellow;
+}
