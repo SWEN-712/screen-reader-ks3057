@@ -4,7 +4,7 @@
 <!-- make text aria hidden. use title for short title and desc for longer descriptions -->
 
 <body>
-  <svg version="1.1" baseprofile="full" width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+  <svg role="img" version="1.1" baseprofile="full" width="900" height="900" xmlns="http://www.w3.org/2000/svg">
     <title>elementary particles</title>
     <!-- left headers -->
     <g>
@@ -25,8 +25,8 @@
       <text aria-hidden="true" x="54%" y="4%" font-size="20">bosons</text>
     </g>
     <!-- fermions -->
-    <g>
-      <title>Fermions.</title>
+    <g id="first">
+      <title aria-la>Fermions.</title>
       <desc>Fermion is a subatomic particle, such as a nucleon,
         which has half-integral spin and follows the statistical
         description given by Fermi and Dirac.</desc>
