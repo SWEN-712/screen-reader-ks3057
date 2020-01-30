@@ -1,0 +1,52 @@
+<?xml-stylesheet href="house.css" type="text/css"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+<title>Picture of a house</title>
+<svg role="presentation" x="0%" y="0%" width="100%" height="90%">
+<rect id="sky" x="0%" y="0%" width="100%" height="100%">
+<title>Skye</title>
+</rect>
+<svg role="presentation" x="20%" y="20%" width="60%" height="80%">
+<rect id="roof" x="0%" y="0%" width="100%" height="20%">
+<title>Roof</title>
+</rect>
+<svg role="presentation" x="0%" y="20%" width="100%" height="80%">
+<rect id="frontOfHouse" x="0%" y="0%" width="100%" height="100%">
+<title>Front of house</title>
+</rect> 
+<svg role="presentation" x="40%" y="25%" width="20%" height="75%">
+<rect id="frontDoor" x="0%" y="0%" width="100%" height="100%">
+<title>Front door</title>
+</rect>
+<circle id="frontDoorHandle" cx="10%" cy="50%" r="5%">
+<title>Front door handle</title>
+</circle>
+</svg>
+<svg role="presentation" x="10%" y="25%" width="20%" height="20%">
+<rect class="window" x="0%" y="0%" width="100%" height="100%">
+<title>Left front window</title>
+</rect>
+<line class="window" x1="0%" y1="50%" x2="100%" y2="50%">
+<title>Horizontal window beem</title>
+</line>
+<line x1="50%" y1="0%" x2="50%" y2="100%">
+<title>Vertical window beem</title>
+</line>
+</svg>
+<svg role="presentation" x="70%" y="25%" width="20%" height="20%">
+<rect class="window" x="0%" y="0%" width="100%" height="100%">
+<title>Right front window</title>
+</rect>
+<line class="window" x1="0%" y1="50%" x2="100%" y2="50%">
+<title>Horizontal window beem</title>
+</line>
+<line x1="50%" y1="0%" x2="50%" y2="100%">
+<title>Vertical window beem</title>
+</line>
+</svg>
+</svg>
+</svg>
+</svg>
+<rect id="ground" x="0%" y="90%" width="100%" height="10%">
+<title>Ground</title>
+</rect>
+</svg>
